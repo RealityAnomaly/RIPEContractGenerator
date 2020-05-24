@@ -1,0 +1,36 @@
+{
+    "driver": "sponsor",
+    "admin_fee": "£0.00",
+    "parties": {
+        "enduser": {
+            "name": "Silvia Raven",
+            "address": [
+                "1 Nullifaction Avenue",
+                "City 27",
+                "Blackstar 000 000"
+            ],
+            "country": "Sublantica"
+        },
+        "lir": {
+            "name": "Kuiser Corporation",
+            "address": [
+                "1 Nullifaction Avenue",
+                "City 27",
+                "Blackstar 000 000"
+            ],
+            "country": "Sublantica",
+            "authority": "Companies House",
+            "regno": "SC123123",
+            "orgid": "uk.kuiser",
+
+            "person": {
+                "name": "Silvia Raven",
+                "role": "Director"
+            }
+        }
+    },
+
+    "resources": [
+        {"type": "AS Number", "content": "210072"}
+    ]
+}
